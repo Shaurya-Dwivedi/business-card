@@ -1,0 +1,28 @@
+body{
+    margin: 15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+/* .name{
+    font-size:25;
+} */
+.card{
+    background-color: #ddebf8;
+    width:500px;
+    margin:auto;
+    padding:20px;
+    display:flex;
+    justify-content: space-around;
+    border-bottom:#d8cefe solid 15px;
+}
+.info{
+    margin:auto;
+    text-align:center;
+    color:#2b2839;
+
+}
+.pfp{
+    width: 150px;
+}
+/* .border{
+    border: blue dotted 1px;
+} */
