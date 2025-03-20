@@ -22,6 +22,7 @@ body{
 }
 .pfp{
     width: 150px;
+    border-radius:100%;
 }
 /* .border{
     border: blue dotted 1px;
